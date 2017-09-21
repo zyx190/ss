@@ -7,6 +7,7 @@ url: "" # the base hostname & protocol for your site
 
 twitter_username: ApacheAmaterasu
 github_username: apache/incubator-amaterasu
+repository: apache/incubator-amaterasu-site
 
 # Build settings
 markdown: kramdown
