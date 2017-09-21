@@ -1,0 +1,12 @@
+# Site settings
+title:
+email: dev-subscribe@amaterasu.incubator.apache.org
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: ApacheAmaterasu
+github_username: apache/incubator-amaterasu
+
+# Build settings
+markdown: kramdown
